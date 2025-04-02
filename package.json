@@ -1,0 +1,27 @@
+{
+  "name": "gg-string-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelCh02/gg-string-msg.git"
+  },
+  "keywords": [],
+  "author": "Manuel Chingay <chingayloez4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManuelCh02/gg-string-msg/issues"
+  },
+  "homepage": "https://github.com/ManuelCh02/gg-string-msg#readme",
+  "bin": {
+    "gg-string-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
